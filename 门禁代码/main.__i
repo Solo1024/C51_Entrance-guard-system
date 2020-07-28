@@ -1,0 +1,1 @@
+"arc\main.c" BROWSE INCDIR(.\arc) DEBUG OBJECTEXTEND PRINT(.\main.lst) OBJECT(main.obj)

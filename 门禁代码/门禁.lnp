@@ -1,0 +1,5 @@
+"STARTUP.obj",
+"main.obj",
+"rc522.obj" 
+TO "це╫Ш" 
+RAMSIZE(256) 
